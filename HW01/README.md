@@ -1,1 +1,1 @@
-Programming assignment one, script and C++ file
+PA1, task4.sh and task6.cpp
