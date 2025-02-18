@@ -24,7 +24,7 @@ function task1()
     xticks(10:1:30);
 
     % Label the axes
-    xlabel('n (2^x)');  % or just "x = log2(n)"
+    xlabel('n (2^n)');  % or just "x = log2(n)"
     ylabel('Time (ms)');
     title('Scan Scaling Analysis');
 

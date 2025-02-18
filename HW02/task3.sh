@@ -5,7 +5,7 @@
 #SBATCH -J task3run
 #SBATCH -o task3run.out -e task3run.err
 
-module load gcc
+
 
 echo "=== Slurm job $SLURM_JOBID started on $(hostname) at $(date) ==="
 

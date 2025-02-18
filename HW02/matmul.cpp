@@ -8,11 +8,11 @@ void mmul1(const double* A, const double* B, double* C, const unsigned int n) {
 
     for (unsigned int i = 0; i < n; i++) {
         for (unsigned int j = 0; j < n; j++) {
-            double sum = 0.0;
+            //double sum = 0.0;
             for (unsigned int k = 0; k < n; k++) {
-                sum += A[i*n + k] * B[k*n + j];
+                C[i*n + j] += A[i*n + k] * B[k*n + j];
             }
-            C[i*n + j] = sum;
+           
         }
     }
 }
@@ -51,11 +51,10 @@ void mmul4(const std::vector<double>& A, const std::vector<double>& B,
 
     for (unsigned int i = 0; i < n; i++) {
         for (unsigned int j = 0; j < n; j++) {
-            double sum = 0.0;
+            //double sum = 0.0;
             for (unsigned int k = 0; k < n; k++) {
-                sum += A[i*n + k] * B[k*n + j];
+                C[i*n + j] += A[i*n + k] * B[k*n + j];
             }
-            C[i*n + j] = sum;
         }
     }
 }

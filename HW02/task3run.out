@@ -1,12 +1,16 @@
-=== Slurm job 702781 started on euler01.engr.wisc.edu at Mon Feb 17 06:53:37 PM CST 2025 ===
+=== Slurm job 702927 started on euler01.engr.wisc.edu at Mon Feb 17 07:56:32 PM CST 2025 ===
 Running: ./task3
 1024
-2885.07
--5.78382
-529.985
--5.78382
-10969.6
--5.78382
-2923.89
--5.78382
-=== Slurm job 702781 finished at Mon Feb 17 06:53:55 PM CST 2025 ===
+3501.42
+4.49832
+404.035
+4.49832
+10829.5
+4.49832
+3562.09
+4.49832
+Validation Results:
+mmul2 matches mmul1: YES
+mmul3 matches mmul1: YES
+mmul4 matches mmul1: YES
+=== Slurm job 702927 finished at Mon Feb 17 07:56:51 PM CST 2025 ===
