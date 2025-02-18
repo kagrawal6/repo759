@@ -1,0 +1,12 @@
+=== Slurm job 702781 started on euler01.engr.wisc.edu at Mon Feb 17 06:53:37 PM CST 2025 ===
+Running: ./task3
+1024
+2885.07
+-5.78382
+529.985
+-5.78382
+10969.6
+-5.78382
+2923.89
+-5.78382
+=== Slurm job 702781 finished at Mon Feb 17 06:53:55 PM CST 2025 ===
