@@ -1,0 +1,23 @@
+=== Slurm job 900257 started on euler01.engr.wisc.edu at Mon Mar  3 05:52:34 PM CST 2025 ===
+Compiling convolution.cpp and task2.cpp...
+Running task1 with n = 1024 and t = 1 ..
+Running task1 with n = 1024 and t = 2 ..
+Running task1 with n = 1024 and t = 3 ..
+Running task1 with n = 1024 and t = 4 ..
+Running task1 with n = 1024 and t = 5 ..
+Running task1 with n = 1024 and t = 6 ..
+Running task1 with n = 1024 and t = 7 ..
+Running task1 with n = 1024 and t = 8 ..
+Running task1 with n = 1024 and t = 9 ..
+Running task1 with n = 1024 and t = 10 ..
+Running task1 with n = 1024 and t = 11 ..
+Running task1 with n = 1024 and t = 12 ..
+Running task1 with n = 1024 and t = 13 ..
+Running task1 with n = 1024 and t = 14 ..
+Running task1 with n = 1024 and t = 15 ..
+Running task1 with n = 1024 and t = 16 ..
+Running task1 with n = 1024 and t = 17 ..
+Running task1 with n = 1024 and t = 18 ..
+Running task1 with n = 1024 and t = 19 ..
+Running task1 with n = 1024 and t = 20 ..
+=== Slurm job 900257 finished at Mon Mar  3 05:52:36 PM CST 2025 ===
