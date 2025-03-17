@@ -1,0 +1,10 @@
+=== Slurm job 984497 started on euler01.engr.wisc.edu at Mon Mar 17 04:36:30 PM CDT 2025 ===
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 1
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 2
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 3
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 4
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 5
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 6
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 7
+Running task 3 without scheduling with number_of_particles = 100, simulation_end_time = 100, num_threads = 8
+=== Slurm job 984497 finished at Mon Mar 17 04:41:07 PM CDT 2025 ===

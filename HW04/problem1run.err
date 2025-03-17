@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/srv/home/kagrawal24/HW04/nbody.py", line 1, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'

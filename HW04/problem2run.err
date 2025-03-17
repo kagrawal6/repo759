@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/srv/home/kagrawal24/HW04/plot_positions.py", line 1, in <module>
+    import pandas as pd
+  File "/srv/home/kagrawal24/.local/lib/python3.12/site-packages/pandas/__init__.py", line 19, in <module>
+    raise ImportError(
+ImportError: Unable to import required dependencies:
+numpy: No module named 'numpy'
