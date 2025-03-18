@@ -1,4 +1,4 @@
-HW04
+**HW04**
 
 Problem 1 - Generate task1.png
 sbatch problem1.sh
