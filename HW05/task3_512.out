@@ -1,0 +1,22 @@
+=== Slurm job 1691533 started on euler01.engr.wisc.edu at Mon Mar 31 08:47:42 PM CDT 2025 ===
+Running task3 with n=1024
+Running task3 with n=2048
+Running task3 with n=4096
+Running task3 with n=8192
+Running task3 with n=16384
+Running task3 with n=32768
+Running task3 with n=65536
+Running task3 with n=131072
+Running task3 with n=262144
+Running task3 with n=524288
+Running task3 with n=1048576
+Running task3 with n=2097152
+Running task3 with n=4194304
+Running task3 with n=8388608
+Running task3 with n=16777216
+Running task3 with n=33554432
+Running task3 with n=67108864
+Running task3 with n=134217728
+Running task3 with n=268435456
+Running task3 with n=536870912
+=== Slurm job 1691533 finished at Mon Mar 31 08:48:28 PM CDT 2025 ===
