@@ -1,0 +1,11 @@
+=== Slurm job 2057516 started on euler02.engr.wisc.edu at Fri May  2 09:58:31 PM CDT 2025 ===
+Running task1 with n=32
+Running task1 with n=64
+Running task1 with n=128
+Running task1 with n=256
+Running task1 with n=512
+Running task1 with n=1024
+Running task1 with n=2048
+Running task1 with n=4096
+Running task1 with n=8192
+Running task1 with n=16384
